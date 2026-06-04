@@ -7,9 +7,26 @@
 - :chart_with_upwards_trend: 
 With 6 years experience in business to business sales and formal training in data analysis and visualization I have honed skills such as relationship building, and clear communication, with the technical skills to back it up.
 
+## Key Strengths:
+- Effective Communication
+- Presentation
+- Creative Thinking
+- Time Management
+- Data Cleaning
+- Teamwork Collaboration
 
-Here are some ideas to get you started:
+## Data Analytics Skills:
+- Spreadsheets (Excel/Google Sheets)
+- SQL
+- Tableau
+- PowerBI
+- Python
 
+  ## My Data Analysis/ Business Analysis Projects:
+All of my projects are available on GitHub!
+- Projects completed during my BI Analyst education can be found [HERE](
+
+  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
