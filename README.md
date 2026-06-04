@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Robert Roddy, an aspiring Data Analyst.
-[![Gmail Badge](https://img.shields.io/badge/-robert.roddy540@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:robert.roddy540@gmail.com)](mailto:robert.roddy540@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-roddy-s/) [![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white)](https://github.com/RobertRoddy540/RobertRoddy540)
+[![Gmail Badge](https://img.shields.io/badge/-robert.roddy540@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:robert.roddy540@gmail.com)](mailto:robert.roddy540@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-roddy-s/) [![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white)](https://github.com/RobertRoddy540/RobertRoddy540)[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/RobertRoddy540/RobertRoddy540)](https://github.com/RobertRoddy540/RobertRoddy540)
 
 - 👨‍💼Business Intelligence Analyst
 - 📊 Interested in analytics specifically with data, business, and process improvement
