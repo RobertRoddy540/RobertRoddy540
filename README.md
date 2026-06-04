@@ -1,7 +1,12 @@
-## Hi there 👋
+## Hi there 👋 I am Robert Roddy, an aspiring Data Analyst.
+[![Gmail Badge](https://img.shields.io/badge/-robert.roddy540@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:robert.roddy540@gmail.com)](mailto:robert.roddy540@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-roddy-s/)
 
-<!--
-**RobertRoddy540/RobertRoddy540** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💼Business Intelligence Analyst
+- 📊 Interested in analytics specifically with data, business, and process improvement
+- 🤝I am eager to joing a team of forward thinking individuals and leverage big data and visualizations skills to drive growth.
+- :chart_with_upwards_trend: 
+With 6 years experience in business to business sales and formal training in data analysis and visualization I have honed skills such as relationship building, and clear communication, with the technical skills to back it up.
+
 
 Here are some ideas to get you started:
 
